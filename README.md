@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=Hey%20everyone!&animation=fadeIn&type=waving&color=gradient&height=100")
 
-I'm Miroslava Venelinova, currently a highschool student looking for new SW internship opputunities!
+I'm Miroslava Venelinova, currently a highschool student looking for new SW internship opportunities!
 
 Education:
 - Highschool of Mathematics, Varna, Bulgaria - Systems Programming vocational major
