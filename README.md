@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?text=Hey%20everyone!&animation=fadeIn&type=waving&color=gradient&height=100")
 
-I'm Miroslava Venelinova, currently a highschool student looking for new SW internship opportunities!
+I'm Miroslava Venelinova, currently a highschool student looking for new software development internship opportunities!
 
 Education:
-- Highschool of Mathematics, Varna, Bulgaria - Systems Programming vocational major
+- Highschool of Mathematics, Varna, Bulgaria - Systems Programming - vocational major
 
 Fields of interests:
 - C/C++ competitive programmming
@@ -13,7 +13,8 @@ Fields of interests:
 - Data analysis
 
 Technical background:
-- Summer internship @ Tempus 2000, Varna - 01.07. - 14.07.2025  
+- Summer internship @ Tempus 2000, Varna, Bulgaria - 01.07. - 14.07.2025
+Note: The internship was part of my vocational programme
 
 Programming languages: C/C++ | C# | TSQL | C++ for embedded systems | Python
 
