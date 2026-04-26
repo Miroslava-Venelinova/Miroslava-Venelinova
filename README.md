@@ -23,6 +23,7 @@ Certifications/programming courses:
 - Programming Fudamentals in C++ @ SoftUni
 - C++ Adavnced @ SoftUni
 - Data analysis of data from CERN ALICE experiment
+- University-level mathematics course @ Faculty of Physics at Sofia University
 
 Currently learning: Linux command prompt, system design patterns
 
